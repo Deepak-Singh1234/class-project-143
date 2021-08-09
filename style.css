@@ -1,0 +1,15 @@
+.helo2345{
+display: inline-block;
+}
+
+video{
+background-image: url("game_console.png");
+background-size: cover;
+background-position:center ;
+padding: 20px;
+}
+
+.modal-body{
+    width: 100px;
+    height: 50px;
+}
